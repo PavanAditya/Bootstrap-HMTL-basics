@@ -1,0 +1,31 @@
+.jumbotron-color {
+  background-color: rgb(175, 122, 224) !important;
+  color: white !important;
+}
+
+.jumbo-head {
+  font-size: 300% !important;
+}
+
+.jumbo-details {
+  font-size: 125% !important;
+}
+
+footer {
+    background-color: rgb(218, 192, 241);
+    padding-top: 2%;
+}
+
+.SM-links {
+    padding-top: 5%;
+}
+
+.gap {
+    margin-bottom: 25%;
+}
+
+@media (min-width: 10px) and (max-width: 575px) {
+    .d-sm-block {
+        display: none !important;
+    }
+}
